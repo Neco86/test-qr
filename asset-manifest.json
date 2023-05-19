@@ -1,7 +1,7 @@
 {
-  "/umi.css": "/umi.588ac19f.css",
-  "/umi.js": "/umi.66e91102.js",
-  "/p__Home.css": "/p__Home.4d221d80.chunk.css",
-  "/p__Home.js": "/p__Home.f670ef14.async.js",
-  "/public/favicon.ico": "/favicon.ico"
+  "/umi.css": "./umi.588ac19f.css",
+  "/umi.js": "./umi.97305078.js",
+  "/p__Home.css": "./p__Home.4d221d80.chunk.css",
+  "/p__Home.js": "./p__Home.f670ef14.async.js",
+  "/public/favicon.ico": "./favicon.ico"
 }
